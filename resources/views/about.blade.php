@@ -10,7 +10,6 @@
 
     @include('components.page-header',['page'=>'','child'=>'About','root'=>'Home'])
 
-
     @include('components.metrics')
 
     @include('components.feature')

@@ -40,6 +40,10 @@ Route::get('/team', function () {
     return view('team');
 });
 
+Route::get('/quote', function () {
+    return view('quote');
+});
+
 Route::get('/testimonial', function () {
     return view('testimonial');
 });
