@@ -9,7 +9,7 @@
 
     @include('components.carousel')
 
-    @include('components.feature-b')
+    @include('components.metrics')
 
     @include('components.about')
 
