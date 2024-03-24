@@ -7,7 +7,7 @@
                     <div class="btn-lg-square bg-primary rounded-circle me-3">
                         <i class="fa fa-users text-white"></i>
                     </div>
-                    <h1 class="mb-0" data-toggle="counter-up">3453</h1>
+                    <h1 class="mb-0" data-toggle="counter-up">25</h1>
                 </div>
                 <h5 class="mb-3">Happy Customers</h5>
                 <span>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit</span>
@@ -17,7 +17,7 @@
                     <div class="btn-lg-square bg-primary rounded-circle me-3">
                         <i class="fa fa-check text-white"></i>
                     </div>
-                    <h1 class="mb-0" data-toggle="counter-up">4234</h1>
+                    <h1 class="mb-0" data-toggle="counter-up">13</h1>
                 </div>
                 <h5 class="mb-3">Project Done</h5>
                 <span>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit</span>
@@ -27,7 +27,7 @@
                     <div class="btn-lg-square bg-primary rounded-circle me-3">
                         <i class="fa fa-award text-white"></i>
                     </div>
-                    <h1 class="mb-0" data-toggle="counter-up">3123</h1>
+                    <h1 class="mb-0" data-toggle="counter-up">3</h1>
                 </div>
                 <h5 class="mb-3">Awards Win</h5>
                 <span>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit</span>
@@ -37,7 +37,7 @@
                     <div class="btn-lg-square bg-primary rounded-circle me-3">
                         <i class="fa fa-users-cog text-white"></i>
                     </div>
-                    <h1 class="mb-0" data-toggle="counter-up">1831</h1>
+                    <h1 class="mb-0" data-toggle="counter-up">8</h1>
                 </div>
                 <h5 class="mb-3">Expert Workers</h5>
                 <span>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit</span>

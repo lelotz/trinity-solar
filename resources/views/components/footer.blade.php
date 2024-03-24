@@ -26,22 +26,22 @@
                 <h5 class="text-white mb-4">Project Gallery</h5>
                 <div class="row g-2">
                     <div class="col-4">
-                        <img class="img-fluid rounded" src="img/gallery-1.jpg" alt="">
+                        <img class="img-fluid rounded" src="images/gallery-1.jpg" alt="">
                     </div>
                     <div class="col-4">
-                        <img class="img-fluid rounded" src="img/gallery-2.jpg" alt="">
+                        <img class="img-fluid rounded" src="images/gallery-2.jpg" alt="">
                     </div>
                     <div class="col-4">
-                        <img class="img-fluid rounded" src="img/gallery-3.jpg" alt="">
+                        <img class="img-fluid rounded" src="images/gallery-3.jpg" alt="">
                     </div>
                     <div class="col-4">
-                        <img class="img-fluid rounded" src="img/gallery-4.jpg" alt="">
+                        <img class="img-fluid rounded" src="images/gallery-4.jpg" alt="">
                     </div>
                     <div class="col-4">
-                        <img class="img-fluid rounded" src="img/gallery-5.jpg" alt="">
+                        <img class="img-fluid rounded" src="images/gallery-5.jpg" alt="">
                     </div>
                     <div class="col-4">
-                        <img class="img-fluid rounded" src="img/gallery-6.jpg" alt="">
+                        <img class="img-fluid rounded" src="images/gallery-6.jpg" alt="">
                     </div>
                 </div>
             </div>
