@@ -23,7 +23,7 @@
 
     @include('components.team')
 
-    @include('components.testimonial')
+    @include('components.partners')
 
 @endsection
 

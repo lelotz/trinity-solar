@@ -1,9 +1,1 @@
-[2024-03-23 18:21:47] debug.ERROR: There are no commands defined in the "list" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"list\" namespace. at /home/trinity/project/trinity-solar/vendor/symfony/console/Application.php:669)
-[stacktrace]
-#0 /home/trinity/project/trinity-solar/vendor/symfony/console/Application.php(720): Symfony\\Component\\Console\\Application->findNamespace('list')
-#1 /home/trinity/project/trinity-solar/vendor/symfony/console/Application.php(266): Symfony\\Component\\Console\\Application->find('list:route')
-#2 /home/trinity/project/trinity-solar/vendor/symfony/console/Application.php(175): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
-#3 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
-#4 /home/trinity/project/trinity-solar/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
-#5 {main}
-"} 
+
