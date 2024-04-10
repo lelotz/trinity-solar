@@ -23,7 +23,7 @@
 
     @include('components.team')
 
-    @include('components.partners')
+    
 
 @endsection
 
