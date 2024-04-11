@@ -43,7 +43,7 @@
                 <div class="col-lg-6 pe-lg-0" style="min-height: 400px;">
                     <div class="position-relative h-100">
                         <iframe class="position-absolute w-100 h-100" style="object-fit: cover;"
-                        src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3962.1274083669227!2d39.22029377499491!3d-6.754313293242222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNsKwNDUnMTUuNSJTIDM5wrAxMycyMi4zIkU!5e0!3m2!1sen!2stz!4v1712737494838!5m2!1sen!2stz"
+                        src="{{ env('CLIENT_EMBED_LOCATION') }}"
                         frameborder="0" allowfullscreen="" aria-hidden="false"
                         tabindex="0"></iframe>
                        
