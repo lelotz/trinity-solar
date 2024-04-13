@@ -31,7 +31,7 @@
                 'order'=>'second',
                 'description'=> 'We Are pioneers of solar & renewable energy industry',
                 'href'=>'',
-                'image'=> 'images/light-1.jpg'
+                'image'=> 'images/light-2.jpg'
             ]),
             @include('widgets.project_card',
             [
@@ -43,6 +43,14 @@
             ]),
             @include('widgets.project_card',
             [
+                'title'=>'Photo Voltaic Systems',
+                'order'=>'second',
+                'description'=> 'We Are pioneers of solar & renewable energy industry',
+                'href'=>'',
+                'image'=> 'images/light-13.jpg'
+            ]),
+            @include('widgets.project_card',
+            [
                 'title'=>'Solar Panels',
                 'order'=>'first',
                 'description'=> 'We Are pioneers of solar & renewable energy industry',
@@ -51,17 +59,8 @@
             ]),
             @include('widgets.project_card',
             [
-                'title'=>'Solar Panels',
-                'order'=>'second',
-                'description'=> 'We Are pioneers of solar & renewable energy industry',
-                'href'=>'',
-                'image'=> 'images/b-gallery-2.jpg'
-            ]),
-
-            @include('widgets.project_card',
-            [
-                'title'=>'Solar Panels',
-                'order'=>'first',
+                'title'=>'Solar Water Solutions',
+                'order'=>'third',
                 'description'=> 'We Are pioneers of solar & renewable energy industry',
                 'href'=>'',
                 'image'=> 'images/b-gallery-1.jpg'
