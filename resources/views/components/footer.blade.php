@@ -4,9 +4,15 @@
         <div class="row g-5">
             <div class="col-lg-3 col-md-6">
                 <h5 class="text-white mb-4">Address</h5>
-                <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>{{ env('CLIENT_PHONE') }}</p>
-                <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>{{ env('CLIENT_PHONE') }}</p>
-                <p class="mb-2"><i class="fa fa-envelope me-3"></i>{{ env('MAIL_FROM_ADDRESS') }}</p>
+                <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>
+                <a href="{{ env('CLIENT_LOCATION') }}" target="_blank">{{ env('CLIENT_SHORT_ADDRESS') }}</a>
+                </p>
+                <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>
+                    <a href="{{ env('CLIENT_PHONE_REF') }}">{{ env('CLIENT_PHONE') }}</a>
+                </p>
+                <p class="mb-2"><i class="fa fa-envelope me-3"></i>
+                    <a href="mailto:{{ env('MAIL_FROM_ADDRESS') }}?subject=Subject%20of%20Email&body=Body%20of%20Email">{{ env('MAIL_FROM_ADDRESS') }}
+                </p>
                 <div class="d-flex pt-2">
                     <a class="btn btn-square btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                     <a class="btn btn-square btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>

@@ -10,96 +10,62 @@
                 <ul class="list-inline mb-5" id="portfolio-flters">
                     <li class="mx-2 active" data-filter="*">All</li>
                     <li class="mx-2" data-filter=".first">Solar Panels</li>
-                    <li class="mx-2" data-filter=".second">Wind Turbines</li>
-                    <li class="mx-2" data-filter=".third">Hydropower Plants</li>
+                    <li class="mx-2" data-filter=".second">Photo Volataic Systems</li>
+                    <li class="mx-2" data-filter=".third">Solar Water Solutions</li>
                 </ul>
             </div>
         </div>
         <div class="row g-4 portfolio-container wow fadeInUp" data-wow-delay="0.5s">
-            <div class="col-lg-4 col-md-6 portfolio-item first">
-                <div class="portfolio-img rounded overflow-hidden">
-                    <img class="img-fluid" src="images/b-gallery-6.jpg" alt="">
-                    <div class="portfolio-btn">
-                        <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="images/b-gallery-6.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                        <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href=""><i class="fa fa-link"></i></a>
-                    </div>
-                </div>
-                <div class="pt-3">
-                    <p class="text-primary mb-0">Solar Panels</p>
-                    <hr class="text-primary w-25 my-2">
-                    <h5 class="lh-base">We Are pioneers of solar & renewable energy industry</h5>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 portfolio-item second">
-                <div class="portfolio-img rounded overflow-hidden">
-                    <img class="img-fluid" src="images/b-gallery-5.jpg" alt="">
-                    <div class="portfolio-btn">
-                        <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="images/b-gallery-5.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                        <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href=""><i class="fa fa-link"></i></a>
-                    </div>
-                </div>
-                <div class="pt-3">
-                    <p class="text-primary mb-0">Wind Turbines</p>
-                    <hr class="text-primary w-25 my-2">
-                    <h5 class="lh-base">We Are pioneers of solar & renewable energy industry</h5>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 portfolio-item third">
-                <div class="portfolio-img rounded overflow-hidden">
-                    <img class="img-fluid" src="images/b-gallery-4.jpg" alt="">
-                    <div class="portfolio-btn">
-                        <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="images/b-gallery-4.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                        <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href=""><i class="fa fa-link"></i></a>
-                    </div>
-                </div>
-                <div class="pt-3">
-                    <p class="text-primary mb-0">Hydropower Plants</p>
-                    <hr class="text-primary w-25 my-2">
-                    <h5 class="lh-base">We Are pioneers of solar & renewable energy industry</h5>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 portfolio-item first">
-                <div class="portfolio-img rounded overflow-hidden">
-                    <img class="img-fluid" src="images/b-gallery-3.jpg" alt="">
-                    <div class="portfolio-btn">
-                        <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="images/b-gallery-3.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                        <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href=""><i class="fa fa-link"></i></a>
-                    </div>
-                </div>
-                <div class="pt-3">
-                    <p class="text-primary mb-0">Solar Panels</p>
-                    <hr class="text-primary w-25 my-2">
-                    <h5 class="lh-base">We Are pioneers of solar & renewable energy industry</h5>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 portfolio-item second">
-                <div class="portfolio-img rounded overflow-hidden">
-                    <img class="img-fluid" src="images/b-gallery-2.jpg" alt="">
-                    <div class="portfolio-btn">
-                        <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="images/b-gallery-2.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                        <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href=""><i class="fa fa-link"></i></a>
-                    </div>
-                </div>
-                <div class="pt-3">
-                    <p class="text-primary mb-0">Wind Turbines</p>
-                    <hr class="text-primary w-25 my-2">
-                    <h5 class="lh-base">We Are pioneers of solar & renewable energy industry</h5>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 portfolio-item third">
-                <div class="portfolio-img rounded overflow-hidden">
-                    <img class="img-fluid" src="images/b-gallery-1.jpg" alt="">
-                    <div class="portfolio-btn">
-                        <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="images/b-gallery-1.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                        <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href=""><i class="fa fa-link"></i></a>
-                    </div>
-                </div>
-                <div class="pt-3">
-                    <p class="text-primary mb-0">Hydropower Plants</p>
-                    <hr class="text-primary w-25 my-2">
-                    <h5 class="lh-base">We Are pioneers of solar & renewable energy industry</h5>
-                </div>
-            </div>
+            @include('widgets.project_card',
+            [
+                'title'=>'Solar Panels',
+                'order'=>'first',
+                'description'=> 'We Are pioneers of solar & renewable energy industry',
+                'href'=>'',
+                'image'=> 'images/b-gallery-6.jpg',
+                'hd_image'=> 'images/gallery.jpg'
+            ]),
+            @include('widgets.project_card',
+            [
+                'title'=>'Photo Voltaic Systems',
+                'order'=>'second',
+                'description'=> 'We Are pioneers of solar & renewable energy industry',
+                'href'=>'',
+                'image'=> 'images/light-1.jpg'
+            ]),
+            @include('widgets.project_card',
+            [
+                'title'=>'Solar Water Solutions',
+                'order'=>'third',
+                'description'=> 'We Are pioneers of solar & renewable energy industry',
+                'href'=>'',
+                'image'=> 'images/b-gallery-4.jpg'
+            ]),
+            @include('widgets.project_card',
+            [
+                'title'=>'Solar Panels',
+                'order'=>'first',
+                'description'=> 'We Are pioneers of solar & renewable energy industry',
+                'href'=>'',
+                'image'=> 'images/b-gallery-3.jpg'
+            ]),
+            @include('widgets.project_card',
+            [
+                'title'=>'Solar Panels',
+                'order'=>'second',
+                'description'=> 'We Are pioneers of solar & renewable energy industry',
+                'href'=>'',
+                'image'=> 'images/b-gallery-2.jpg'
+            ]),
+
+            @include('widgets.project_card',
+            [
+                'title'=>'Solar Panels',
+                'order'=>'first',
+                'description'=> 'We Are pioneers of solar & renewable energy industry',
+                'href'=>'',
+                'image'=> 'images/b-gallery-1.jpg'
+            ]),
         </div>
     </div>
 </div>
