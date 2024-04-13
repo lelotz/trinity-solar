@@ -7,7 +7,8 @@
     Done : Contact Information
     Done : Projects
 
-5. Add partner sections
+5. Done : Add partner sections
+
 6. Use company logo
-7. Link email form
+7. Link email forms
 8. Launch

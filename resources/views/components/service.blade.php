@@ -2,31 +2,31 @@
 <div class="container-xxl py-5">
     <div class="container">
         <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-            <h6 class="text-primary">Our Services</h6>
-            <h1 class="mb-4">We Are Pioneers In The World Of Renewable Energy</h1>
+            <h6 class="text-primary">{{__('site.our_services')}}</h6>
+            <h1 class="mb-4">{{__('site.our_services_title')}}</h1>
         </div>
         <div class="row g-4" style="justify-content:center">
 
             @include('widgets.artical_card',[
-                'title'=>'Solar Panel Installation',
+                'title'=>" {{__('site.solar_panel_inst')}}",
                 'img'=>'images/b-gallery-1.jpg',
-                'description'=>'We meticulously design and implement customized solar solutions tailored to your energy needs.',
+                'description'=>"{{__('site.solar_panel_inst_sub')}}",
                 'href'=>''
                 ])
             
             @include('widgets.artical_card',
             [
-                'title'=>'Solar Components Supplier',
+                'title'=>"{{__('site.solar_panel_comps')}}",
                 'img'=>'images/b-gallery-2.jpg',
-                'description'=>'Energize your projects with our comprehensive Supply of Solar Components service.',
+                'description'=>"{{__('site.solar_panel_comps_sub')}}",
                 'href'=>''
             ])
 
             @include('widgets.artical_card',
             [
-                'title'=>'Photo Voltaic Systems',
+                'title'=>"{{__('site.photo_volataic_systs')}}",
                 'img'=>'images/b-gallery-3.jpg',
-                'description'=>'Expert integration of diverse solar technologies, including backup systems, streetlights, and advanced hybrids',
+                'description'=>"{{__('site.photo_volataic_systs_sub')}}",
                 'href'=>''
             ])
 
@@ -34,18 +34,17 @@
         <div class="row g-4" style="justify-content:center"> -->
         @include('widgets.artical_card',
             [
-                'title'=>'Solar Project Consulting',
+                'title'=>"{{__('site.solar_project_consulting')}}",
                 'img'=>'images/b-gallery-4.jpg',
-                'description'=>'Navigating the complexities of solar projects requires expertise, and our consulting services are
-                            here to guide you every step of the way',
+                'description'=>"{{__('site.solar_project_cons_sub')}}",
                 'href'=>''
             ])
 
             @include('widgets.artical_card',
             [
-                'title'=>'Solar Water Solutions',
+                'title'=>"{{__('site.solar_water_solutions')}}",
                 'img'=>'images/b-gallery-5.jpg',
-                'description'=>'Empowering homes and businesses with eco-friendly water pumping and heating solutions powered by the sun.',
+                'description'=>"{{__('site.solar_Water_solutions_sub')}}",
                 'href'=>''
             ])
          

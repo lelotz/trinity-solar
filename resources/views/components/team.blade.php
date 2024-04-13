@@ -2,8 +2,8 @@
 <div class="container-xxl py-5">
     <div class="container">
         <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-            <h6 class="text-primary">Team Member</h6>
-            <h1 class="mb-4">Experienced Team Members</h1>
+            <h6 class="text-primary">{{__('site.the_team')}}</h6>
+            <h1 class="mb-4">{{__('site.the_team_sub')}}</h1>
         </div>
         <div class="row g-4">
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">

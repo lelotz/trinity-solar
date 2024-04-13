@@ -3,8 +3,8 @@
   <div class="container mb-5 mb-md-6">
     <div class="row justify-content-md-center">
       <div class="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6 text-center">
-        <h2 class="mb-4 display-5">Partners</h2>
-        <p class="text-secondary mb-4 mb-md-5">Collaborative Partnerships: Highlighting strong connections and shared goals.</p>
+        <h2 class="mb-4 display-5">{{__('site.partners')}}</h2>
+        <p class="text-secondary mb-4 mb-md-5">{{__('site.partners_sub')}}</p>
         <hr class="w-50 mx-auto mb-0 text-secondary">
       </div>
     </div>
