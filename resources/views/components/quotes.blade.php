@@ -11,7 +11,7 @@
                 <div class="p-lg-5 pe-lg-0">
                     <h6 class="text-primary">{{__('site.free_quote')}}</h6>
                     <h1 class="mb-4">{{__('site.get_free_qoute')}}</h1>
-                    <p class="mb-4 pb-2">{{__('site.get_free_qoute_sub')}}</p>
+                    <p class="mb-4 pb-2">{{__('site.get_free_quote_sub')}}</p>
                     <form>
                         <div class="row g-3">
                             <div class="col-12 col-sm-6">

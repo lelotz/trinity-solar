@@ -18,7 +18,7 @@
         <div class="row g-4 portfolio-container wow fadeInUp" data-wow-delay="0.5s">
             @include('widgets.project_card',
             [
-                'title'=>" {{__('site.solar_panels')}} ",
+                'title'=> __('site.solar_panels'),
                 'order'=>'first',
                 'description'=> 'We Are pioneers of solar & renewable energy industry',
                 'href'=>'',
@@ -27,7 +27,7 @@
             ]),
             @include('widgets.project_card',
             [
-                'title'=>"{{__('site.photo_volataic_systs')}}",
+                'title'=>__('site.photo_volataic_systs'),
                 'order'=>'second',
                 'description'=> 'We Are pioneers of solar & renewable energy industry',
                 'href'=>'',
@@ -35,7 +35,7 @@
             ]),
             @include('widgets.project_card',
             [
-                'title'=>"{{__('site.solar_water_solutions')}}",
+                'title'=>__('site.solar_water_solutions'),
                 'order'=>'third',
                 'description'=> 'We Are pioneers of solar & renewable energy industry',
                 'href'=>'',
@@ -43,7 +43,7 @@
             ]),
             @include('widgets.project_card',
             [
-                'title'=>"{{__('site.photo_volataic_systs')}}",
+                'title'=>__('site.photo_volataic_systs'),
                 'order'=>'second',
                 'description'=> 'We Are pioneers of solar & renewable energy industry',
                 'href'=>'',
@@ -51,7 +51,7 @@
             ]),
             @include('widgets.project_card',
             [
-                'title'=>"{{__('site.solar_panels')}}",
+                'title'=>__('site.solar_panels'),
                 'order'=>'first',
                 'description'=> 'We Are pioneers of solar & renewable energy industry',
                 'href'=>'',
@@ -59,7 +59,7 @@
             ]),
             @include('widgets.project_card',
             [
-                'title'=>"{{__('site.solar_water_solutions')}}",
+                'title'=>__('site.solar_water_solutions'),
                 'order'=>'third',
                 'description'=> 'We Are pioneers of solar & renewable energy industry',
                 'href'=>'',
