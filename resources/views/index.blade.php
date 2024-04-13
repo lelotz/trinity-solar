@@ -19,6 +19,8 @@
 
     @include('components.projects')
 
+    @include('components.partners')
+
     @include('components.quotes')
 
     @include('components.team')
