@@ -14,7 +14,7 @@
                 <small>{{ env('CLIENT_HOURS') }}</small>
             </div>
         </div>
-        <div class="col-lg-5 px-5 text-end">
+        <div class="col-lg-5 px-4 text-end">
             <div class="h-100 d-inline-flex align-items-center me-4">
                 <small class="fa fa-phone-alt text-primary me-2"></small>
                 <a href="{{ env('CLIENT_PHONE_REF') }}">
@@ -27,8 +27,11 @@
                 <a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary" href="" target="_blank"><i class="fab fa-twitter"></i></a>
                 <a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary" href="" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                 <a class="btn btn-square btn-link rounded-0" href="{{ env('CLIENT_INSTAGRAM') }}" target="_blank"><i class="fab fa-instagram"></i></a>
+                <div class="lang-btn border-0 border-start border-secondary" style="height: 38px;align-content: center;padding-left: 4.5px;">
+                    @include('components.lang_button')</div>
             </div>
 
+            
             
                
            
