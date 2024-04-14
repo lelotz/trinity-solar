@@ -28,6 +28,10 @@
                 <a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary" href="" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                 <a class="btn btn-square btn-link rounded-0" href="{{ env('CLIENT_INSTAGRAM') }}" target="_blank"><i class="fab fa-instagram"></i></a>
             </div>
+
+            
+               
+           
         </div>
     </div>
 </div>

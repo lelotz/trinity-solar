@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\LanguageController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -51,3 +51,5 @@ Route::get('/404', function () {
     return view('404');
 });
 
+Route::post('change-language', [LanguageController::class,'changeLanguage'])
+    ->name('change-language');

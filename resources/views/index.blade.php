@@ -7,6 +7,8 @@
 
 @section('content')
 
+    @include('components.lang_button')
+
     @include('components.carousel')
 
     @include('components.metrics')
