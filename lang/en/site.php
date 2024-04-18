@@ -47,7 +47,7 @@ return [
     'our_projects_title'=>'Visit Our Latest Solar And Renewable Energy Projects',
     'all'=>'All',
     'solar_panels'=>'Solar Panels',
-    'testitmonial'=>'Testimonials',
+    'testimonial'=>'Testimonials',
     'what_clients_say'=>'What Our Clients Say!',
     'testi_one'=>'',
     'testi_two'=>'',

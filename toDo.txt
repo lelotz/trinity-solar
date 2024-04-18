@@ -1,6 +1,8 @@
 1. Upload remaining photos
 2. Resize images
 3. Use real words
+    Make Translations
+    Insert Lang phone button
 
 4. Add real company specialities
     Done : Services
@@ -11,4 +13,6 @@
 
 6. Use company logo
 7. Link email forms
-8. Launch
+8. Add Error Handlers
+
+9. Launch

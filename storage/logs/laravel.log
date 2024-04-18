@@ -2836,3 +2836,326 @@
 [2024-04-14 11:58:43] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
 [2024-04-14 12:00:24] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
 [2024-04-14 12:00:35] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
+[2024-04-14 12:01:50] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-14 12:02:17] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-14 12:02:35] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
+[2024-04-14 12:02:52] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-14 12:03:07] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-14 12:03:22] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-14 12:08:33] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-14 12:08:34] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-14 12:08:42] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-14 14:33:00] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-14 14:33:01] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-14 18:05:01] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-14 19:18:09] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-14 23:13:22] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 02:16:19] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 03:04:07] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 03:28:50] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 03:29:13] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 08:06:09] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 08:06:10] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 08:17:12] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 08:57:31] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 08:58:48] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 10:37:12] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 10:37:16] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 10:37:25] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 10:38:12] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 10:38:14] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 10:38:42] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 10:38:44] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 10:39:52] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 10:39:55] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 10:40:30] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 10:40:34] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 10:54:14] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 10:54:18] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 10:54:50] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 10:54:53] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 10:55:01] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 10:55:07] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 11:49:21] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 11:49:28] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 11:49:29] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 11:51:54] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 11:58:11] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 12:18:40] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 12:20:51] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 12:44:20] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 22:54:04] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 22:56:36] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 22:56:36] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 22:56:36] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 22:56:36] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 22:56:36] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 22:56:37] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 22:56:37] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 22:56:37] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 22:56:37] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-15 22:56:39] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 05:23:13] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 05:23:13] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 06:13:55] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 06:17:41] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 08:07:48] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 08:42:42] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 08:58:33] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 09:10:49] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 11:34:12] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 12:50:40] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 13:59:45] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 13:59:50] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 15:23:50] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 15:23:54] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 15:24:06] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 15:24:09] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 15:43:22] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 15:43:29] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 15:45:27] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 15:45:30] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 16:31:29] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 18:18:29] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 21:32:33] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-16 23:48:30] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-17 06:52:01] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-17 08:43:44] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-17 08:43:45] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-17 09:08:53] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-17 09:09:06] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-17 12:07:13] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-17 12:07:16] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-17 12:54:44] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-17 17:35:56] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 01:33:25] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 01:33:34] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 03:27:38] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 03:27:39] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 03:32:10] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 03:32:14] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 03:32:17] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 03:32:17] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 04:16:02] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 04:16:03] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 06:09:04] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 07:14:34] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 09:35:05] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 11:25:19] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 13:24:38] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 13:40:11] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 13:40:36] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 13:40:42] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 13:44:50] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 13:46:50] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 13:46:50] debug.ERROR: View [lang_button] not found. {"view":{"view":"/home/trinity/project/trinity-solar/resources/views/layouts/navbar.blade.php","data":{"errors":"<pre class=sf-dump id=sf-dump-659792794 data-indent-pad=\"  \"><span class=sf-dump-note>Illuminate\\Support\\ViewErrorBag</span> {<a class=sf-dump-ref>#459</a><samp data-depth=1 class=sf-dump-expanded>
+  #<span class=sf-dump-protected title=\"Protected property\">bags</span>: []
+</samp>}
+</pre><script>Sfdump(\"sf-dump-659792794\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","title":"<pre class=sf-dump id=sf-dump-1818441970 data-indent-pad=\"  \">\"<span class=sf-dump-str title=\"4 characters\">Home</span>\"
+</pre><script>Sfdump(\"sf-dump-1818441970\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+"}},"exception":"[object] (Spatie\\LaravelIgnition\\Exceptions\\ViewException(code: 0): View [lang_button] not found. at /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137)
+[stacktrace]
+#0 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\\View\\FileViewFinder->findInPaths('lang_button', Array)
+#1 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/Factory.php(138): Illuminate\\View\\FileViewFinder->find('lang_button')
+#2 /home/trinity/project/trinity-solar/resources/views/layouts/navbar.blade.php(23): Illuminate\\View\\Factory->make('lang_button', Array)
+#3 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(123): require('/home/trinity/p...')
+#4 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(124): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#5 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('/home/trinity/p...', Array)
+#6 /home/trinity/project/trinity-solar/vendor/livewire/livewire/src/Mechanisms/ExtendBlade/ExtendedCompilerEngine.php(22): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('/home/trinity/p...', Array)
+#7 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(72): Livewire\\Mechanisms\\ExtendBlade\\ExtendedCompilerEngine->evaluatePath('/home/trinity/p...', Array)
+#8 /home/trinity/project/trinity-solar/vendor/livewire/livewire/src/Mechanisms/ExtendBlade/ExtendedCompilerEngine.php(10): Illuminate\\View\\Engines\\CompilerEngine->get('/home/trinity/p...', Array)
+#9 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/View.php(207): Livewire\\Mechanisms\\ExtendBlade\\ExtendedCompilerEngine->get('/home/trinity/p...', Array)
+#10 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/View.php(190): Illuminate\\View\\View->getContents()
+#11 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/View.php(159): Illuminate\\View\\View->renderContents()
+#12 /home/trinity/project/trinity-solar/resources/views/layouts/main.blade.php(53): Illuminate\\View\\View->render()
+#13 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(123): require('/home/trinity/p...')
+#14 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(124): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#15 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('/home/trinity/p...', Array)
+#16 /home/trinity/project/trinity-solar/vendor/livewire/livewire/src/Mechanisms/ExtendBlade/ExtendedCompilerEngine.php(22): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('/home/trinity/p...', Array)
+#17 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(72): Livewire\\Mechanisms\\ExtendBlade\\ExtendedCompilerEngine->evaluatePath('/home/trinity/p...', Array)
+#18 /home/trinity/project/trinity-solar/vendor/livewire/livewire/src/Mechanisms/ExtendBlade/ExtendedCompilerEngine.php(10): Illuminate\\View\\Engines\\CompilerEngine->get('/home/trinity/p...', Array)
+#19 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/View.php(207): Livewire\\Mechanisms\\ExtendBlade\\ExtendedCompilerEngine->get('/home/trinity/p...', Array)
+#20 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/View.php(190): Illuminate\\View\\View->getContents()
+#21 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/View.php(159): Illuminate\\View\\View->renderContents()
+#22 /home/trinity/project/trinity-solar/resources/views/index.blade.php(30): Illuminate\\View\\View->render()
+#23 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(123): require('/home/trinity/p...')
+#24 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(124): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#25 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('/home/trinity/p...', Array)
+#26 /home/trinity/project/trinity-solar/vendor/livewire/livewire/src/Mechanisms/ExtendBlade/ExtendedCompilerEngine.php(22): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('/home/trinity/p...', Array)
+#27 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(72): Livewire\\Mechanisms\\ExtendBlade\\ExtendedCompilerEngine->evaluatePath('/home/trinity/p...', Array)
+#28 /home/trinity/project/trinity-solar/vendor/livewire/livewire/src/Mechanisms/ExtendBlade/ExtendedCompilerEngine.php(10): Illuminate\\View\\Engines\\CompilerEngine->get('/home/trinity/p...', Array)
+#29 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/View.php(207): Livewire\\Mechanisms\\ExtendBlade\\ExtendedCompilerEngine->get('/home/trinity/p...', Array)
+#30 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/View.php(190): Illuminate\\View\\View->getContents()
+#31 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/View.php(159): Illuminate\\View\\View->renderContents()
+#32 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\\View\\View->render()
+#33 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#34 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Routing/Router.php(918): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#35 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Routing/Router.php(885): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#36 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Routing/Router.php(806): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#37 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(144): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#38 /home/trinity/project/trinity-solar/app/Http/Middleware/SetLocale.php(22): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): App\\Http\\Middleware\\SetLocale->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#43 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#44 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#45 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#46 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#47 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#48 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#49 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#50 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#51 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#52 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#53 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(119): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#54 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Routing/Router.php(807): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#55 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Routing/Router.php(784): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#56 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Routing/Router.php(748): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#57 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Routing/Router.php(737): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#58 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#59 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(144): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#60 /home/trinity/project/trinity-solar/vendor/livewire/livewire/src/Features/SupportDisablingBackButtonCache/DisableBackButtonCacheMiddleware.php(19): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#61 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Livewire\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#62 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#63 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#64 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#65 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#66 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#67 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#68 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#69 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#70 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php(99): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#71 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#72 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#73 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#74 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Http/Middleware/TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#75 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#76 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(119): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#77 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#78 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#79 /home/trinity/project/trinity-solar/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#80 {main}
+
+[previous exception] [object] (InvalidArgumentException(code: 0): View [lang_button] not found. at /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137)
+[stacktrace]
+#0 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\\View\\FileViewFinder->findInPaths('lang_button', Array)
+#1 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/Factory.php(138): Illuminate\\View\\FileViewFinder->find('lang_button')
+#2 /home/trinity/project/trinity-solar/storage/framework/views/acc4bbe07993ffc4029c33f38de78268.php(23): Illuminate\\View\\Factory->make('lang_button', Array)
+#3 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(123): require('/home/trinity/p...')
+#4 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(124): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#5 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('/home/trinity/p...', Array)
+#6 /home/trinity/project/trinity-solar/vendor/livewire/livewire/src/Mechanisms/ExtendBlade/ExtendedCompilerEngine.php(22): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('/home/trinity/p...', Array)
+#7 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(72): Livewire\\Mechanisms\\ExtendBlade\\ExtendedCompilerEngine->evaluatePath('/home/trinity/p...', Array)
+#8 /home/trinity/project/trinity-solar/vendor/livewire/livewire/src/Mechanisms/ExtendBlade/ExtendedCompilerEngine.php(10): Illuminate\\View\\Engines\\CompilerEngine->get('/home/trinity/p...', Array)
+#9 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/View.php(207): Livewire\\Mechanisms\\ExtendBlade\\ExtendedCompilerEngine->get('/home/trinity/p...', Array)
+#10 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/View.php(190): Illuminate\\View\\View->getContents()
+#11 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/View.php(159): Illuminate\\View\\View->renderContents()
+#12 /home/trinity/project/trinity-solar/storage/framework/views/ec083323a5610782b2554283ff18150c.php(53): Illuminate\\View\\View->render()
+#13 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(123): require('/home/trinity/p...')
+#14 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(124): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#15 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('/home/trinity/p...', Array)
+#16 /home/trinity/project/trinity-solar/vendor/livewire/livewire/src/Mechanisms/ExtendBlade/ExtendedCompilerEngine.php(22): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('/home/trinity/p...', Array)
+#17 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(72): Livewire\\Mechanisms\\ExtendBlade\\ExtendedCompilerEngine->evaluatePath('/home/trinity/p...', Array)
+#18 /home/trinity/project/trinity-solar/vendor/livewire/livewire/src/Mechanisms/ExtendBlade/ExtendedCompilerEngine.php(10): Illuminate\\View\\Engines\\CompilerEngine->get('/home/trinity/p...', Array)
+#19 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/View.php(207): Livewire\\Mechanisms\\ExtendBlade\\ExtendedCompilerEngine->get('/home/trinity/p...', Array)
+#20 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/View.php(190): Illuminate\\View\\View->getContents()
+#21 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/View.php(159): Illuminate\\View\\View->renderContents()
+#22 /home/trinity/project/trinity-solar/storage/framework/views/6c174d1a6ea2a3c40afa64ec322f5000.php(36): Illuminate\\View\\View->render()
+#23 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(123): require('/home/trinity/p...')
+#24 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(124): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#25 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('/home/trinity/p...', Array)
+#26 /home/trinity/project/trinity-solar/vendor/livewire/livewire/src/Mechanisms/ExtendBlade/ExtendedCompilerEngine.php(22): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('/home/trinity/p...', Array)
+#27 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(72): Livewire\\Mechanisms\\ExtendBlade\\ExtendedCompilerEngine->evaluatePath('/home/trinity/p...', Array)
+#28 /home/trinity/project/trinity-solar/vendor/livewire/livewire/src/Mechanisms/ExtendBlade/ExtendedCompilerEngine.php(10): Illuminate\\View\\Engines\\CompilerEngine->get('/home/trinity/p...', Array)
+#29 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/View.php(207): Livewire\\Mechanisms\\ExtendBlade\\ExtendedCompilerEngine->get('/home/trinity/p...', Array)
+#30 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/View.php(190): Illuminate\\View\\View->getContents()
+#31 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/View.php(159): Illuminate\\View\\View->renderContents()
+#32 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\\View\\View->render()
+#33 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#34 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Routing/Router.php(918): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#35 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Routing/Router.php(885): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#36 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Routing/Router.php(806): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#37 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(144): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#38 /home/trinity/project/trinity-solar/app/Http/Middleware/SetLocale.php(22): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): App\\Http\\Middleware\\SetLocale->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#43 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#44 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#45 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#46 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#47 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#48 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#49 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#50 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#51 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#52 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#53 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(119): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#54 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Routing/Router.php(807): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#55 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Routing/Router.php(784): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#56 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Routing/Router.php(748): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#57 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Routing/Router.php(737): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#58 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#59 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(144): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#60 /home/trinity/project/trinity-solar/vendor/livewire/livewire/src/Features/SupportDisablingBackButtonCache/DisableBackButtonCacheMiddleware.php(19): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#61 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Livewire\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#62 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#63 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#64 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#65 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#66 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#67 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#68 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#69 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#70 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php(99): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#71 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#72 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#73 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#74 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Http/Middleware/TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#75 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(183): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#76 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(119): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#77 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#78 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#79 /home/trinity/project/trinity-solar/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#80 {main}
+"} 
+[2024-04-18 13:47:04] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 13:47:52] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 13:49:32] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 13:50:00] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 13:51:53] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 13:55:27] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 13:55:42] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 13:56:32] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:02:47] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:03:14] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:03:42] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:06:15] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:06:34] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:06:36] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:06:37] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:06:58] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:07:24] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:07:26] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:07:40] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:12:05] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:13:58] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:14:20] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:14:50] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:15:02] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:15:43] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:16:28] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:16:39] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:16:57] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:17:11] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:42:14] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:42:15] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
+[2024-04-18 14:42:19] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
+[2024-04-18 14:42:20] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : sw  
+[2024-04-18 14:43:00] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : sw  
+[2024-04-18 14:44:02] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : sw  
+[2024-04-18 14:45:31] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : sw  
+[2024-04-18 14:45:32] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  

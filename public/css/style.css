@@ -242,6 +242,10 @@ input.check-toggle-round-flat:checked + label:after {
     .navbar .navbar-nav {
         border-top: 1px solid #EEEEEE;
     }
+    .mobile-lang-button{
+        padding-right: 5%;
+        visibility: visible;
+    }
 }
 
 @media (min-width: 992px) {
@@ -261,6 +265,18 @@ input.check-toggle-round-flat:checked + label:after {
         transition: .5s;
         opacity: 1;
     }
+    /* .mobile-lang-button{
+        padding-right:5%;
+        visibility: hidden;
+    } */
+
+
+    
+}
+
+.mobile-lang-button {
+    padding-right: 5%;
+    visibility: hidden;
 }
 
 
