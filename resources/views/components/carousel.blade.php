@@ -37,7 +37,7 @@
                         <div class="col-10 col-lg-8">
                             <h1 class="display-2 text-white animated slideInDown">{{__('site.carousel_title')}}</h1>
                             <p class="fs-5 fw-medium text-white mb-4 pb-3">{{__('site.carousel_sub')}}</p>
-                            <!-- <a href="" class="btn btn-primary rounded-pill py-3 px-5 animated slideInLeft">{{__('site.read_more')}}</a> -->
+                            <a href="" class="btn btn-primary rounded-pill py-3 px-5 animated slideInLeft">{{__('site.read_more')}}</a>
                         </div>
                     </div>
                 </div>
