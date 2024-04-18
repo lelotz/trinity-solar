@@ -3159,3 +3159,38 @@
 [2024-04-18 14:44:02] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : sw  
 [2024-04-18 14:45:31] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : sw  
 [2024-04-18 14:45:32] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
+[2024-04-18 14:47:54] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
+[2024-04-18 14:49:00] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
+[2024-04-18 14:49:14] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
+[2024-04-18 14:49:27] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
+[2024-04-18 14:49:38] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
+[2024-04-18 14:49:50] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
+[2024-04-18 14:51:42] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
+[2024-04-18 14:51:58] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
+[2024-04-18 14:52:18] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
+[2024-04-18 14:53:07] debug.ERROR: There are no commands defined in the "clear" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"clear\" namespace. at /home/trinity/project/trinity-solar/vendor/symfony/console/Application.php:669)
+[stacktrace]
+#0 /home/trinity/project/trinity-solar/vendor/symfony/console/Application.php(720): Symfony\\Component\\Console\\Application->findNamespace('clear')
+#1 /home/trinity/project/trinity-solar/vendor/symfony/console/Application.php(266): Symfony\\Component\\Console\\Application->find('clear:cache')
+#2 /home/trinity/project/trinity-solar/vendor/symfony/console/Application.php(175): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /home/trinity/project/trinity-solar/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /home/trinity/project/trinity-solar/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2024-04-18 14:53:36] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
+[2024-04-18 14:54:21] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
+[2024-04-18 14:56:36] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
+[2024-04-18 14:58:25] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
+[2024-04-18 14:59:16] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 14:59:23] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') :   
+[2024-04-18 15:00:17] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : en  
+[2024-04-18 15:00:18] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : sw  
+[2024-04-18 15:01:21] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : sw  
+[2024-04-18 15:02:12] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : sw  
+[2024-04-18 15:05:29] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : sw  
+[2024-04-18 15:06:16] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : sw  
+[2024-04-18 15:06:37] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : sw  
+[2024-04-18 15:06:50] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : sw  
+[2024-04-18 15:08:45] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : sw  
+[2024-04-18 15:09:08] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : sw  
+[2024-04-18 15:09:27] debug.DEBUG: [SET-LOCALE-MIDDLEWARE] Locale from session('language') : sw  
