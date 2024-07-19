@@ -17,8 +17,8 @@
                         </div>
                     </div>
                     <div class="p-4">
-                        <h5>Full Name</h5>
-                        <span>Designation</span>
+                        <h5>Herman Mmanda</h5>
+                        <span>Solar Expert</span>
                     </div>
                 </div>
             </div>
@@ -33,8 +33,8 @@
                         </div>
                     </div>
                     <div class="p-4">
-                        <h5>Full Name</h5>
-                        <span>Designation</span>
+                        <h5>Salum B. Mugisha</h5>
+                        <span>Solar Installation Expert</span>
                     </div>
                 </div>
             </div>
@@ -49,8 +49,8 @@
                         </div>
                     </div>
                     <div class="p-4">
-                        <h5>Full Name</h5>
-                        <span>Designation</span>
+                        <h5>Herman Mmanda</h5>
+                        <span>Solar Expert</span>
                     </div>
                 </div>
             </div>
