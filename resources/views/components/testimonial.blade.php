@@ -14,7 +14,7 @@
                     </div>
                 </div>
                 <div class="testimonial-text text-center rounded p-4">
-                    <p>Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea clita.</p>
+                    <p>Trinity Solar's services are exceptional! Their team installed our solar panels quickly and efficiently. Our energy bills have significantly reduced, and we are delighted with the results. Their professionalism and dedication are top-notch. Highly recommended for anyone considering solar energy.</p>
                     <h5 class="mb-1">Client Name</h5>
                     <span class="fst-italic">Profession</span>
                 </div>
@@ -27,7 +27,7 @@
                     </div>
                 </div>
                 <div class="testimonial-text text-center rounded p-4">
-                    <p>Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea clita.</p>
+                    <p>We couldn't be happier with Trinity Solar! Their knowledgeable team guided us through the entire process, from consultation to installation. The transition to solar energy was smooth and hassle-free. We are now enjoying substantial savings on our electricity bills. A fantastic experience!</p>
                     <h5 class="mb-1">Client Name</h5>
                     <span class="fst-italic">Profession</span>
                 </div>
@@ -40,7 +40,7 @@
                     </div>
                 </div>
                 <div class="testimonial-text text-center rounded p-4">
-                    <p>Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea clita.</p>
+                    <p>Trinity Solar provided outstanding service from start to finish. Their experts conducted a thorough assessment of our needs and customized the perfect solar solution for us. The installation was seamless, and we are thrilled with the performance of our new system. Highly recommended!</p>
                     <h5 class="mb-1">Client Name</h5>
                     <span class="fst-italic">Profession</span>
                 </div>
