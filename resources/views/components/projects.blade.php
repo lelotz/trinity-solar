@@ -29,7 +29,7 @@
             [
                 'title'=>__('site.photo_volataic_systs'),
                 'order'=>'second',
-                'description'=> 'We Are pioneers of solar & renewable energy industry',
+                'description'=> 'Delivering precision and reliability in PV system setups.',
                 'href'=>'',
                 'image'=> 'images/light-2.jpg'
             ]),
@@ -37,7 +37,7 @@
             [
                 'title'=>__('site.solar_water_solutions'),
                 'order'=>'third',
-                'description'=> 'We Are pioneers of solar & renewable energy industry',
+                'description'=> 'Providing efficient and sustainable solar water solutions.',
                 'href'=>'',
                 'image'=> 'images/b-gallery-4.jpg'
             ]),
@@ -45,7 +45,7 @@
             [
                 'title'=>__('site.photo_volataic_systs'),
                 'order'=>'second',
-                'description'=> 'We Are pioneers of solar & renewable energy industry',
+                'description'=> 'Advancing sustainability with top PV system installations.',
                 'href'=>'',
                 'image'=> 'images/light-13.jpg'
             ]),
@@ -53,7 +53,7 @@
             [
                 'title'=>__('site.solar_panels'),
                 'order'=>'first',
-                'description'=> 'We Are pioneers of solar & renewable energy industry',
+                'description'=> 'Setting standards with innovative solar panel solutions.',
                 'href'=>'',
                 'image'=> 'images/b-gallery-3.jpg'
             ]),
@@ -61,7 +61,7 @@
             [
                 'title'=>__('site.solar_water_solutions'),
                 'order'=>'third',
-                'description'=> 'We Are pioneers of solar & renewable energy industry',
+                'description'=> 'Leaders in installing reliable solar water heating systems.',
                 'href'=>'',
                 'image'=> 'images/b-gallery-1.jpg'
             ]),
