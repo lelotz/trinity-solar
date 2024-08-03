@@ -1,5 +1,4 @@
-
-@extends('layouts.main',['title'=>'About'])
+@extends('layouts.main', ['title' => 'About'])
 
 @section('meta')
     <meta content="Trinity Solar Energy Ltd" name="keywords">
@@ -8,7 +7,12 @@
 
 @section('content')
 
-    @include('components.page-header',['page'=>'','child'=>'About','root'=>'Home'])
+    @include('components.page-header', [
+        'page' => 'About Us',
+        'root' => 'Home',
+        'child' => 'About Us',
+        'banner' => 'images/about.jpg'  // Path to your banner image
+    ])
 
     @include('components.metrics')
 
@@ -17,5 +21,3 @@
     @include('components.team')
 
 @endsection
-
-

@@ -665,3 +665,10 @@ input.check-toggle-round-flat:checked + label:after {
 .footer .copyright a:hover {
     color: var(--primary);
 }
+
+/*** Custom CSS ***/
+.custom-toggler {
+    border: 1px solid transparent; /* Make border visible for debugging if needed */
+    margin-bottom: 10px; /* Adjust as needed */
+    margin-top: 10px; /* Adjust as needed */
+}

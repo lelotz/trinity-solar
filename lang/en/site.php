@@ -42,7 +42,7 @@ return [
     'workers'=>'Workers',
     'customer'=>'Customer',
     'support'=>'Support',
-    'consultation'=>'Consultation',
+    'consultation'=>'Consult',
     'our_projects'=>'Our Projects',
     'our_projects_title'=>'Visit Our Latest Solar And Renewable Energy Projects',
     'all'=>'All',

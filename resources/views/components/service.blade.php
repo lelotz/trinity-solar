@@ -11,7 +11,8 @@
                 'title'=>__('site.solar_panel_inst'),
                 'img'=>'images/b-gallery-1.jpg',
                 'description'=>__('site.solar_panel_inst_sub'),
-                'href'=>''
+                'href'=>'',
+                'icon'=>'fa-solar-panel'
                 ])
             
             @include('widgets.artical_card',
@@ -19,7 +20,8 @@
                 'title'=>__('site.solar_panel_comps'),
                 'img'=>'images/b-gallery-2.jpg',
                 'description'=>__('site.solar_panel_comps_sub'),
-                'href'=>''
+                'href'=>'',
+                'icon'=>'fa-tools'
             ])
 
             @include('widgets.artical_card',
@@ -27,7 +29,8 @@
                 'title'=>__('site.photo_volataic_systs'),
                 'img'=>'images/b-gallery-3.jpg',
                 'description'=>__('site.photo_volataic_systs_sub'),
-                'href'=>''
+                'href'=>'',
+                'icon'=>'fa-sun'
             ])
 
         <!-- </div>
@@ -37,7 +40,8 @@
                 'title'=>__('site.solar_project_consulting'),
                 'img'=>'images/b-gallery-4.jpg',
                 'description'=>__('site.solar_project_cons_sub'),
-                'href'=>''
+                'href'=>'',
+                'icon'=>'fa-handshake'
             ])
 
             @include('widgets.artical_card',
@@ -45,7 +49,8 @@
                 'title'=>__('site.solar_water_solutions'),
                 'img'=>'images/b-gallery-5.jpg',
                 'description'=>__('site.solar_Water_solutions_sub'),
-                'href'=>''
+                'href'=>'',
+                'icon'=>'fa-water'
             ])
          
 

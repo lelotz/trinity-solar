@@ -2,7 +2,8 @@
 <div class="container-xxl py-5">
     <div class="container">
         <div class="row g-5">
-            <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
+            <!-- Column 1 -->
+            <div class="col-6 col-md-4 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
                 <div class="d-flex align-items-center mb-4">
                     <div class="btn-lg-square bg-primary rounded-circle me-3">
                         <i class="fa fa-users text-white"></i>
@@ -10,9 +11,10 @@
                     <h1 class="mb-0" data-toggle="counter-up">25</h1>
                 </div>
                 <h5 class="mb-3">Happy Customers</h5>
-                <!-- <span>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit</span> -->
             </div>
-            <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
+
+            <!-- Column 2 -->
+            <div class="col-6 col-md-4 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
                 <div class="d-flex align-items-center mb-4">
                     <div class="btn-lg-square bg-primary rounded-circle me-3">
                         <i class="fa fa-check text-white"></i>
@@ -20,9 +22,10 @@
                     <h1 class="mb-0" data-toggle="counter-up">13</h1>
                 </div>
                 <h5 class="mb-3">Project Done</h5>
-                <!-- <span>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit</span> -->
             </div>
-            <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.5s">
+
+            <!-- Column 3 -->
+            <div class="col-6 col-md-4 col-lg-3 wow fadeIn" data-wow-delay="0.5s">
                 <div class="d-flex align-items-center mb-4">
                     <div class="btn-lg-square bg-primary rounded-circle me-3">
                         <i class="fa fa-award text-white"></i>
@@ -30,9 +33,10 @@
                     <h1 class="mb-0" data-toggle="counter-up">3</h1>
                 </div>
                 <h5 class="mb-3">Awards Win</h5>
-                <!-- <span>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit</span> -->
             </div>
-            <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
+
+            <!-- Column 4 -->
+            <div class="col-6 col-md-4 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
                 <div class="d-flex align-items-center mb-4">
                     <div class="btn-lg-square bg-primary rounded-circle me-3">
                         <i class="fa fa-users-cog text-white"></i>
@@ -40,9 +44,8 @@
                     <h1 class="mb-0" data-toggle="counter-up">8</h1>
                 </div>
                 <h5 class="mb-3">Expert Workers</h5>
-                <!-- <span>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit</span> -->
             </div>
         </div>
     </div>
 </div>
-<!-- Feature Start -->
+<!-- Feature End -->
