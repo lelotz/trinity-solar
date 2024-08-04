@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\LanguageController;
+use App\Http\Controllers\ContactController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -53,3 +54,9 @@ Route::get('/404', function () {
 
 Route::post('change-language', [LanguageController::class,'changeLanguage'])
     ->name('change-language');
+
+    Route::get('/contact', function () {
+        return view('contact');
+    })->name('contact.form');
+    
+    Route::post('/contact', [ContactController::class, 'submit'])->name('contact.submit');
