@@ -31,9 +31,7 @@
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
 
-    
-
-{{--    @livewireStyles--}}
+    @livewireStyles
 </head>
 
 <body>
@@ -49,18 +47,12 @@
 
     <header>
         @include('components.top_bar')
-
         @include('layouts.navbar')
-
     </header>
-
 
     @yield('content')
 
-
     @include('components.footer')
-
-
 
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i class="bi bi-arrow-up"></i></a>
@@ -78,7 +70,6 @@
 <script src="lib/isotope/isotope.pkgd.min.js"></script>
 <script src="lib/lightbox/js/lightbox.min.js"></script>
 
-
 @yield('scripts')
 
 <!-- Template Javascript -->
@@ -88,4 +79,3 @@
 </body>
 
 </html>
-
